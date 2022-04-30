@@ -37,12 +37,12 @@
 </details>
 
 <details>
-  <summary>:zap: Python</summary>
+  <summary>:snake: Python</summary>
     <details>
-      <summary>:·:    Algorithms</summary>
+      <summary>·Algorithms</summary>
     </details>
     <details>
-      <summary>:·:    Problems</summary>
+      <summary>·Problems</summary>
     </details>
   
 </details>
