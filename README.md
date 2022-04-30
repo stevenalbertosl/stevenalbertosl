@@ -4,7 +4,7 @@
 - 🔭 I’m currently in my second year of software engineering
 - 🌱 I’m currently learning Python!
 - 👯 I’m looking to collaborate on open source
-- 📫 How to reach me: [Instagram](https://www.linkedin.com/in/stevenalbertosl/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stevenalbertosl/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a genius :)
 
@@ -30,8 +30,16 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: Most Used Languages Stats</summary>
 
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sam-codes&layout=compact&theme=tokyonight" />
 
+<details>
+  <summary>:zap: Python</summary>
+    <details>
+      <summary>:zap: Algorithms</summary>
+     <details>
+      <summary>:zap: Problems</summary>
+
+    
 </details>
