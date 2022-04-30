@@ -24,10 +24,11 @@
   <summary>:minidisc: Projects</summary>
 </details>
 
+
 <details>
   <summary>:snake: Python</summary>
-  *Algorithms:
-  *Problems:
+                   *Algorithms
+                   *Problems
 </details>
 
 <details>
