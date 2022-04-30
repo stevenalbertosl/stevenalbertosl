@@ -39,10 +39,10 @@
 <details>
   <summary>:zap: Python</summary>
     <details>
-      <summary>:zap: Algorithms</summary>
+      <summary>:·:    Algorithms</summary>
     </details>
     <details>
-      <summary>:zap: Problems</summary>
+      <summary>:·:    Problems</summary>
     </details>
   
 </details>
