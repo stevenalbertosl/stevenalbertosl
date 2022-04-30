@@ -16,7 +16,19 @@
 ### Repositories:
 
 <details>
-  <summary>:minidisc: Projects</summary>  
+  <summary>:minidisc: Projects</summary>
+  Algorithms:
+  -
+  -
+  -
+  -
+  -
+  Problems:
+  -
+  -
+  -
+  -
+  -
 </details>
 
 <details>
