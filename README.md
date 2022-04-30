@@ -37,7 +37,6 @@
 </details>
 
 <br />
-
 ---
 <details>
   <summary>:snake: Python</summary>
