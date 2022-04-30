@@ -20,28 +20,11 @@
 ---
 ### Repositories:
 
-<details>
-  <summary>:minidisc: Projects</summary>
-</details>
-
-
-<details>
-  <summary>:snake: Python</summary>
-                   *Algorithms
-                   *Problems
-</details>
-
-<details>
-  <summary>:tea: Java</summary>  
-</details>
-
-<details>
-  <summary>:cat: JavaScript</summary>  
-</details>
-
-<details>
-  <summary>:fox_face: C</summary>  
-</details>
+* Projects [Project list by category]()
+* Python [Algorithms and problems]()
+* Java [Algorithms and problems]()
+* Javascript [Algorithms and problems]()
+* C [Algorithms and problems]()
 
 
 
