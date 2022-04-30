@@ -34,12 +34,17 @@
 
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sam-codes&layout=compact&theme=tokyonight" />
 
-<details>
+</details>
+
+ <details>
   <summary>:zap: Python</summary>
+ 
     <details>
       <summary>:zap: Algorithms</summary>
+      </details>
      <details>
       <summary>:zap: Problems</summary>
-
-    
+       </details>
 </details>
+    
+
