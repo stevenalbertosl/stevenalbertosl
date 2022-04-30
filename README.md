@@ -35,6 +35,8 @@
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sam-codes&layout=compact&theme=tokyonight" />
 
 </details>
+<br />
+
 ---
 <details>
   <summary>:snake: Python</summary>
