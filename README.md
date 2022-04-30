@@ -36,15 +36,15 @@
 
 </details>
 
- <details>
+<details>
   <summary>:zap: Python</summary>
- 
     <details>
       <summary>:zap: Algorithms</summary>
       </details>
      <details>
       <summary>:zap: Problems</summary>
        </details>
+  
 </details>
     
 
