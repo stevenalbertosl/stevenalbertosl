@@ -21,10 +21,14 @@
 
 <br />
 
-### REPOSITORIES:
+### Repositories:
+
+<details>
+  <summary>:minidisc: Projects</summary>  
+</details>
 
 <details>
   <summary>:snake: Python</summary>  
 </details>
-    
+
 
