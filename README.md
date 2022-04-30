@@ -26,6 +26,8 @@
 
 <details>
   <summary>:snake: Python</summary>
+  *Algorithms:
+  *Problems:
 </details>
 
 <details>
