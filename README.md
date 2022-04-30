@@ -17,22 +17,14 @@
 
 <details>
   <summary>:minidisc: Projects</summary>
-  Algorithms:
-  -
-  -
-  -
-  -
-  -
-  Problems:
-  -
-  -
-  -
-  -
-  -
 </details>
 
 <details>
-  <summary>:snake: Python</summary>  
+  <summary>:snake: Python</summary>
+  Algorithms:
+  - Calculator
+  - Geometry
+  - 
 </details>
 
 <details>
