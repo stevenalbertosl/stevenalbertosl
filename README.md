@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm an aspiring bioinformatics researcher with a background in Software Engineering and a passion for data science, machine learning, and computational biology. My main interests lie in:
 - 🧬 **Bioinformatics & Computational Biology**
